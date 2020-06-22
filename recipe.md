@@ -1,4 +1,4 @@
-#H1 Ingredients - Piri Piri Sauce
+#Ingredients 
 
 * 150 g White Flour
 * 120 g Almond Flour
@@ -11,7 +11,7 @@
 
 #Directions
 
-1. Preheat the microwave to 50 degrees.
+1. Preheat oven to 200 degrees.
 2. Blend beet, maple applesyrup and vanilla till just a little smooth.
 3. Sieve and mix dry ingredients mix with wet ingredients.
 4. Line a baking tray.
