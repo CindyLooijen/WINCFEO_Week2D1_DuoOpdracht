@@ -1,6 +1,6 @@
 #Ingredients 
 
-* 150 g White Flour
+* 100 g White Flour
 * 120 g Almond Flour
 * 200 g Coconut Oil
 * 200 ml Maple Syrup
